@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
 title: Adam's web page
 description: Welcome to my page!
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-slate
