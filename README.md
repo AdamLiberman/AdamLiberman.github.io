@@ -4,6 +4,8 @@ My name is Adam Liberman and I'm a M.Sc. student in Weizmann Institute of Scienc
 
 I also enjoy cooking, traveling, and swimming.
 
+This semester I am also participating in [](WIS Python programming course)
+
 [My github page](https://github.com/AdamLiberman/AdamLiberman.github.io/tree/main)
 
 
